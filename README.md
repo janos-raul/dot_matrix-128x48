@@ -8,5 +8,7 @@ pixel-led dot matrix assembly controlled by max7291 constant curent led matrix d
 *  -using different fonts
 *  mainboard:
 ![mainboard](https://github.com/janos-raul/dot_matrix-128x48/blob/main/dot_mainb.png)
-*  LED module
+*  LED module:
 ![led module](https://github.com/janos-raul/dot_matrix-128x48/blob/main/DOTM_M6.png)
+*  Demo:
+![Demo](https://github.com/janos-raul/dot_matrix-128x48/blob/main/led%20matrix%20128x48.gif)
