@@ -6,9 +6,17 @@ pixel-led dot matrix assembly controlled by max7291 constant curent led matrix d
 *  -reads time and date from **NEO-6M GPS** Module
 *  -reads temperature with **DS18-B**
 *  -using different fonts
+
+# KiCad design files for building the project
+
+- **DOTM_MAINB.ZIP**: mainboard controller ATMega 1284P @20Mhz
+- **DOTM_MODULE_V2.ZIP**: LED2088AS module board (4 modules)
+
 *  mainboard:
-![mainboard](https://github.com/janos-raul/dot_matrix-128x48/blob/main/dot_mainb.png)
+![mainboard](https://github.com/janos-raul/dot_matrix-128x48/blob/main/pics/dot_mainb.png)
 *  LED module:
-![led module](https://github.com/janos-raul/dot_matrix-128x48/blob/main/DOTM_M6.png)
+![led module](https://github.com/janos-raul/dot_matrix-128x48/blob/main/pics/DOTM_M6.png)
 *  Demo:
-![Demo](https://github.com/janos-raul/dot_matrix-128x48/blob/main/led%20matrix%20128x48.gif)
+![Demo](https://github.com/janos-raul/dot_matrix-128x48/blob/main/pics/led%20matrix%20128x48.gif)
+
+
